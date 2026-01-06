@@ -1,5 +1,6 @@
 # Single-Object Localization with ResNet18 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sjoerdschoufs-bit/Animal-Localization-Project/blob/main/Animal_Localization_ResNet18.ipynb)
+
 This repository contains a Deep Learning project for localizing animals in images using a Convolutional Neural Network (CNN). The model is built with **PyTorch** and utilizes Transfer Learning to predict bounding boxes around animals.
 
 This project was developed as part of the *Engineering with AI* minor (Deep Learning course) at TU Delft.
