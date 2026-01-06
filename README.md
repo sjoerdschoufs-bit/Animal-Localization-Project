@@ -28,13 +28,19 @@ On the independent Test Set (15% of data), the model achieved:
 
 ## Visuals
 <img width="421" height="207" alt="Training and validation loss curves" src="https://github.com/user-attachments/assets/0e7aeb58-0fb0-4cf8-b52c-d4438672f682" />
-<img width="630" height="126" alt="inference samples" src="https://github.com/user-attachments/assets/78f1d3ea-9d8a-43bd-9ef1-bef77d88a7e1" />
 <img width="209" height="207" alt="distribution of IoU" src="https://github.com/user-attachments/assets/872c8145-6cbf-4717-b50a-30768ff251c4" />
+<img width="630" height="126" alt="inference samples" src="https://github.com/user-attachments/assets/78f1d3ea-9d8a-43bd-9ef1-bef77d88a7e1" />
 
 
-## Getting Started
 
-### Prerequisites
-Install the required libraries:
+## 🛠️ Getting Started
+
+Follow these steps to set up and run the project locally.
+
+### 1. Installation
+Clone the repository and install the required dependencies:
+
 ```bash
-pip install torch torchvision numpy matplotlib pillow jupyter
+git clone [https://github.com/JOUW_GEBRUIKERSNAAM/Animal-Localization-Project.git](https://github.com/JOUW_GEBRUIKERSNAAM/Animal-Localization-Project.git)
+cd Animal-Localization-Project
+pip install -r requirements.txt
