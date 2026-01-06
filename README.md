@@ -37,7 +37,7 @@ On the independent Test Set (15% of data), the model achieved:
 
 Follow these steps to set up and run the project locally.
 
-### 1. Installation
+### Installation
 Clone the repository and install the required dependencies:
 
 ```bash
