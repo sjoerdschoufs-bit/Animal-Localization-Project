@@ -34,7 +34,7 @@ On the independent Test Set (15% of data), the model achieved:
 
 
 
-## 🛠️ Getting Started
+## Getting Started
 
 Follow these steps to set up and run the project locally.
 
