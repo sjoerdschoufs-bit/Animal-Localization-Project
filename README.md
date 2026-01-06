@@ -41,6 +41,6 @@ Follow these steps to set up and run the project locally.
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/JOUW_GEBRUIKERSNAAM/Animal-Localization-Project.git](https://github.com/JOUW_GEBRUIKERSNAAM/Animal-Localization-Project.git)
+git clone [https://github.com/sjoerdschoufs-bit/Animal-Localization-Project.git](https://github.com/sjoerdschoufs-bit/Animal-Localization-Project.git)
 cd Animal-Localization-Project
 pip install -r requirements.txt
